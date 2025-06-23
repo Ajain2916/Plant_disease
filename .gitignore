@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyd
+*.dll
+*.h5
+*.keras
+*.zip
+*.exe
+.DS_Store
+*.log
+

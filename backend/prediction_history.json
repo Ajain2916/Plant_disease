@@ -1,0 +1,109 @@
+[
+  {
+    "timestamp": "20250612-103502",
+    "prediction": "Apple Scab",
+    "confidence": "0.96",
+    "treatment": "Apply fungicides and prune infected leaves.",
+    "prevention": "Improve air circulation and avoid overhead watering.",
+    "severity": "Moderate",
+    "image_path": "saved_images\\Apple Scab_20250612-103502.png"
+  },
+  {
+    "timestamp": "20250612_112654",
+    "prediction": "Apple Scab",
+    "confidence": 0.9647279977798462,
+    "severity": "Moderate",
+    "image_url": "/images/20250612_112654.png",
+    "report_url": "/reports/20250612_112654.pdf"
+  },
+  {
+    "timestamp": "20250614_222041",
+    "prediction": "Apple Scab",
+    "confidence": 0.9647279977798462,
+    "severity": "Moderate",
+    "image_url": "/images/20250614_222041.png",
+    "report_url": "/reports/20250614_222041.pdf"
+  },
+  {
+    "timestamp": "20250614_223136",
+    "prediction": "Apple Scab",
+    "confidence": 0.9647279977798462,
+    "severity": "Moderate",
+    "image_url": "/images/20250614_223136.png",
+    "report_url": "/reports/20250614_223136.pdf"
+  },
+  {
+    "timestamp": "20250614_223408",
+    "prediction": "Apple Scab",
+    "confidence": 0.9647279977798462,
+    "severity": "Moderate",
+    "image_url": "/images/20250614_223408.png",
+    "report_url": "/reports/20250614_223408.pdf"
+  },
+  {
+    "timestamp": "20250614_223724",
+    "prediction": "Apple Scab",
+    "confidence": 0.9647279977798462,
+    "severity": "Moderate",
+    "image_url": "/images/20250614_223724.png",
+    "report_url": "/reports/20250614_223724.pdf"
+  },
+  {
+    "timestamp": "20250614_223931",
+    "prediction": "Apple Scab",
+    "confidence": 0.9647279977798462,
+    "severity": "Moderate",
+    "image_url": "/images/20250614_223931.png",
+    "report_url": "/reports/20250614_223931.pdf"
+  },
+  {
+    "timestamp": "20250614_224754",
+    "prediction": "Apple Scab",
+    "confidence": 0.9647279977798462,
+    "severity": "Moderate",
+    "status": "treated",
+    "image_url": "/images/20250614_224754.png",
+    "report_url": "/reports/20250614_224754.pdf",
+    "reportFilename": "20250614_224754.pdf"
+  },
+  {
+    "timestamp": "20250614_224837",
+    "prediction": "Healthy",
+    "confidence": 0.766024649143219,
+    "severity": "N/A",
+    "status": "healthy",
+    "image_url": "/images/20250614_224837.png",
+    "report_url": "/reports/20250614_224837.pdf",
+    "reportFilename": "20250614_224837.pdf"
+  },
+  {
+    "timestamp": "20250623_171451",
+    "prediction": "Apple Scab",
+    "confidence": 0.9647279977798462,
+    "severity": "Moderate",
+    "status": "treated",
+    "image_url": "/images/20250623_171451.png",
+    "report_url": "/reports/20250623_171451.pdf",
+    "reportFilename": "20250623_171451.pdf"
+  },
+  {
+    "timestamp": "20250623_171533",
+    "prediction": "Healthy",
+    "confidence": 0.766024649143219,
+    "severity": "N/A",
+    "status": "healthy",
+    "image_url": "/images/20250623_171533.png",
+    "report_url": "/reports/20250623_171533.pdf",
+    "reportFilename": "20250623_171533.pdf"
+  },
+  {
+    "timestamp": "20250623_173419",
+    "prediction": "Apple Scab",
+    "confidence": 0.9647279977798462,
+    "severity": "Moderate",
+    "status": "treated",
+    "image_url": "/images/20250623_173419.png",
+    "report_url": "/reports/20250623_173419.pdf",
+    "reportFilename": "20250623_173419.pdf"
+  }
+]
